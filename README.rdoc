@@ -2,6 +2,16 @@
 
 A little fraiche for dealing with youtube (uploading/downloading)
 
+
+== Usage
+
+./bin/youtube_fraiche "<youtube_url>"
+
+== Todo
+
+uploading
+
+
 == Copyright
 
 Copyright (c) 2010 Julio Capote. See LICENSE.txt for
