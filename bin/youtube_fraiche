@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require './lib/youtube_fraiche'
+
+yf = YoutubeFraiche.new
+yf.download(ARGV[0])
