@@ -2,10 +2,15 @@
 
 A little fraiche for dealing with youtube (uploading/downloading)
 
+== Installation
+
+git clone git@github.com:capotej/youtube_fraiche.git
+
+bundle install
 
 == Usage
 
-./bin/youtube_fraiche "<youtube_url>"
+bin/youtube_fraiche "<youtube_url>"
 
 == Todo
 
